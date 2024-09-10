@@ -21,3 +21,5 @@ while True:
 		print(hasiltambah)
 	else:
 		print("Masukkan Angka yang tepat")
+
+# ini merupakan pembeda saja
